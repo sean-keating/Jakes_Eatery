@@ -1,0 +1,26 @@
+.matemasie-regular {
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E5DDC8;
+  }
+  footer {
+    background-color: #004369;
+    color: #ffffff;
+  }
+  .featured {
+    background-color: #DB1F48;
+    color: #ffffff;
+  }
+  footer a {
+    color: #02dde5;
+  }
+  footer a:hover {
+    color: #ffffff;
+  }
+
